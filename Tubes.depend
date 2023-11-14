@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1588098408 source:d:\tubes smt 2\tubes\main.cpp
+	<iostream>
+	<stdio.h>
+	"Montir.h"
+	"Mobil.h"
+	"Hubungan.h"
+	"Menu.h"
+
+1588110001 source:d:\tubes smt 2\tubes\montir.cpp
+	"Montir.h"
+	<iostream>
+
+1588109923 d:\tubes smt 2\tubes\montir.h
+	<iostream>
+	<stdio.h>
+
+1588099627 d:\tubes smt 2\tubes\mobil.h
+	<stdio.h>
+	<iostream>
+
+1588102466 d:\tubes smt 2\tubes\hubungan.h
+	"Mobil.h"
+	"Montir.h"
+	<iostream>
+
+1588100704 d:\tubes smt 2\tubes\menu.h
+	<stdlib.h>
+	<conio.h>
+	"Montir.h"
+	"Mobil.h"
+	"Hubungan.h"
+
+1588109149 source:d:\tubes smt 2\tubes\hubungan.cpp
+	"Montir.h"
+	"Mobil.h"
+	"hubungan.h"
+	<iostream>
+
+1588103364 source:d:\tubes smt 2\tubes\mobil.cpp
+	"mobil.h"
+	<iostream>
+
+1588109973 source:d:\tubes smt 2\tubes\menu.cpp
+	"Montir.h"
+	"Mobil.h"
+	"Hubungan.h"
+	"Menu.h"
+
+1588109149 source:d:\tubes smt 2\tubes perbaikan\tubes\hubungan.cpp
+	"Montir.h"
+	"Mobil.h"
+	"hubungan.h"
+	<iostream>
+
+1588148522 d:\tubes smt 2\tubes perbaikan\tubes\montir.h
+	<iostream>
+	<stdio.h>
+
+1588159148 d:\tubes smt 2\tubes perbaikan\tubes\mobil.h
+	<stdio.h>
+	<iostream>
+
+1588102466 d:\tubes smt 2\tubes perbaikan\tubes\hubungan.h
+	"Mobil.h"
+	"Montir.h"
+	<iostream>
+
+1588098408 source:d:\tubes smt 2\tubes perbaikan\tubes\main.cpp
+	<iostream>
+	<stdio.h>
+	"Montir.h"
+	"Mobil.h"
+	"Hubungan.h"
+	"Menu.h"
+
+1588159784 d:\tubes smt 2\tubes perbaikan\tubes\menu.h
+	<stdlib.h>
+	<conio.h>
+	"Montir.h"
+	"Mobil.h"
+	"Hubungan.h"
+
+1588103364 source:d:\tubes smt 2\tubes perbaikan\tubes\mobil.cpp
+	"mobil.h"
+	<iostream>
+
+1588159133 source:d:\tubes smt 2\tubes perbaikan\tubes\montir.cpp
+	"Montir.h"
+	<iostream>
+
+1588158887 source:d:\tubes smt 2\tubes perbaikan\tubes\menu.cpp
+	"Montir.h"
+	"Mobil.h"
+	"Hubungan.h"
+	"Menu.h"
+
